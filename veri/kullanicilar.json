@@ -1,0 +1,16 @@
+{
+    "admin": {
+        "adSoyad": "Site Yöneticisi",
+        "eposta": "admin@ornek.com",
+        "rol": "admin",
+        "parola": "$2y$10$fp8ZwOGQ9f0JbN809cVDkeR77MiPktQMRJm4MXWz1OxPTM5O27NU.",
+        "kayitTarihi": "2026-10-19 09:00"
+    },
+    "kullanici": {
+        "adSoyad": "Deneme Kullanıcısı",
+        "eposta": "kullanici@ornek.com",
+        "rol": "kullanici",
+        "parola": "$2y$10$/f6rUqTbvCrNGff57D6JBuGlY1m6NTZ1CA.Ci87eUn4vGOBS/jjt2",
+        "kayitTarihi": "2026-10-20 08:00"
+    }
+}
