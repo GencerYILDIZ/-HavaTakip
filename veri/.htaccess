@@ -1,0 +1,3 @@
+# veri/ klasörü: kullanıcı hesapları (parola özetleri, e-postalar) ve önbellek dosyaları.
+# Tarayıcıdan doğrudan açılmasını engeller; dosyaları yalnızca PHP okuyabilir.
+Require all denied
